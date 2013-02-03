@@ -1,0 +1,4 @@
+slot
+====
+
+game slot
